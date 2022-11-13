@@ -1,32 +1,13 @@
-## Flipbot: Learn Continuous Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration
+## ERRA: An Embodied Representation and Reasoning Architecture for Long-horizon Language-conditioned Manipulation Tasks
 
 ___
-### Video
+### Task Setting
 
 
-**Full book flipping**
+**Network Architecture**
 
-<p align = "center">
-<img src="1.gif" width="640" height="360"> 
-</p>
+### Extras
 
-**Emptying paper-box**
+You can view the extras [here](https://github.com/RobotLL/Flipbot).
 
-<p align = "center">
-<img src="2.gif" width="640" height="360"> 
-</p>
-
-**Flipping with different tilted angles**
-
-<p align = "center">
-<img src="3.gif" width="640" height="360"> 
-</p>
-
-### Code and Extras
-
-You can view the code [here](https://github.com/RobotLL/Flipbot).
-
-
-### Maintenance 
-For any technical issues, please contact: Chao Zhao (czhaobb@connect.ust.hk).
   
