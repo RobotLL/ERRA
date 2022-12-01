@@ -1,12 +1,12 @@
 ## ERRA: An Embodied Representation and Reasoning Architecture for Long-horizon Language-conditioned Manipulation Tasks
 
-## Unseen Verb nad Noun
+### Unseen Verb nad Noun
 
-## Language Instructions
+### Language Instructions
 
-## Task Setting
+### Task Setting
 
-### Long-horizon Tasks
+#### Long-horizon Tasks
 
 **Task 0**
 
@@ -24,14 +24,14 @@ Trajectory:
 
 **Task 3**
 
-### Hybird Tasks
+#### Hybird Tasks
 
-## MODEL ARCHITECTURE
+### MODEL ARCHITECTURE
 
 ** OBSERVATION ENCODING**
 
 
-## Extras
+### Extras
 
 The code will be available [here](https://github.com/RobotLL/ERRA).
 
