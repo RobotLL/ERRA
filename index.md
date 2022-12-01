@@ -6,6 +6,11 @@ ___
 
 **Task 0**
 
+Description:
+
+Success Criteria:
+
+Trajectory: 
 
 **Task 1**
 
@@ -14,6 +19,10 @@ ___
 
 
 **Task 3**
+
+### MODEL ARCHITECTURE
+
+**OBSERVATION ENCODING**
 
 
 ### Extras
