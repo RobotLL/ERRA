@@ -28,7 +28,7 @@ Trajectory:
 
 ### MODEL ARCHITECTURE
 
-** OBSERVATION ENCODING**
+**OBSERVATION ENCODING**
 
 
 ### Extras
