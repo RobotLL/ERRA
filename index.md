@@ -7,6 +7,71 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 
 <center> <iframe width="640" height="360" src="https://user-images.githubusercontent.com/32490390/205371577-286329c1-f8d2-4be4-8ee9-fb769c6cf145.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> 
 
+## TASK SUITE
+
+
+### Long-horizon Task Familiy
+
+**Task 0**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+**Task 1**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+**Task 2**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+**Task 3**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+### Hybird Task Familiy
+
+**Task 0**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+**Task 1**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+**Task 2**
+
+Language instruction:
+
+Description:
+
+Success Criteria:
+
+## Unseen Verb nad Noun
+
 
 
   
