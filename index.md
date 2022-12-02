@@ -2,32 +2,6 @@
 
 https://user-images.githubusercontent.com/32490390/205371577-286329c1-f8d2-4be4-8ee9-fb769c6cf145.mp4
 
-## Unseen Verb nad Noun
-
-## Language Instructions
-
-## Task Setting
-
-### Long-horizon Tasks
-
-**Task 0**
-
-Description:
-
-Success Criteria:
-
-Trajectory: 
-
-**Task 1**
-
-
-**Task 2**
-
-
-**Task 3**
-
-### Hybird Tasks
-
 ## Extras
 More details is available [here](https://github.com/RobotLL/ERRA).
 
