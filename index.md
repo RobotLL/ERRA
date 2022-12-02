@@ -11,67 +11,6 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 
 ## Unseen Verb nad Noun
 
-## Long-horizon Task Familiy
-
-**Task 0**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-**Task 1**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-**Task 2**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-**Task 3**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-## Hybird Task Familiy
-
-**Task 0**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-**Task 1**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-**Task 2**
-
-Language instruction:
-
-Description:
-
-Success Criteria:
-
-
 
 
 
