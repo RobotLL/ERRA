@@ -1,7 +1,5 @@
 # ERRA: An Embodied Representation and Reasoning Architecture for Long-horizon Language-conditioned Manipulation Tasks
 
-<video src='video.mp4' width=180/>
-
 ## 1. Overview
 
 
