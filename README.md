@@ -2,10 +2,6 @@
 
 ## 1. Overview
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
-
 ## 2. Prerequisites
 ### 2.1 Hardware
 - [**Universal Robot UR10**](https://www.universal-robots.com/products/ur10-robot/)
