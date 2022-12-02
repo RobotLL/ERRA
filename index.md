@@ -1,6 +1,6 @@
 ## ERRA: An Embodied Representation and Reasoning Architecture for Long-horizon Language-conditioned Manipulation Tasks
 
-## Extras
+## Code
 Code is available [here](https://github.com/RobotLL/ERRA).
 
 ## Video
