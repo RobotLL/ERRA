@@ -1,6 +1,6 @@
 ## ERRA: An Embodied Representation and Reasoning Architecture for Long-horizon Language-conditioned Manipulation Tasks
 
-## Unseen Verb nad Noun
+*Unseen Verb nad Noun*
 
 ## Language Instructions
 
