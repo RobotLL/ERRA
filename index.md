@@ -26,11 +26,6 @@ Trajectory:
 
 ### Hybird Tasks
 
-## Model Architecute
-
-**Observation encoding**
-
-
 ## Extras
 More details is available [here](https://github.com/RobotLL/ERRA).
 
