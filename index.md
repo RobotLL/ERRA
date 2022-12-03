@@ -29,6 +29,21 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 |     open → unclose, unlock             |     object → thing, item          |
 |     place → put, set                   |     bin → box, dustbin            |
 
+## Unseen Verb nad Noun
+
+|     Examples of Language Instruction in Testing        |                                                                   |
+|--------------------------------------------------------|-------------------------------------------------------------------|
+|     Short-horizon Tasks                                |     Long-horizon   Tasks                                          |
+|     Grasp an object (i.e., trash)                      |     Please clean the table                                        |
+|     Place the object into the bin                      |     Please put sth into the drawer (cosmetic, can, clip)          |
+|     Open the drawer                                    |     Please cut sth (eggplant, banana, apple)                      |
+|     Close the drawer                                   |     Please put all the round objects from the table to the box    |
+|     Place sth into the drawer (cosmetic, can, clip)    |                                                                   |
+|     Grasp the knife                                    |     Hybird Tasks                                                  |
+|     Cut sth (eggplant, banana, apple)                  |     Please close the drawer and then grasp the knife              |
+|     Grasp a round object                               |     Please put sth into the drawer and then clean the table.      |
+|     Place the round object into the bin                |     Please clean the table and then cut sth (e.g., banana)        |
+|     Grasp sth (cosmetic, can, clip)                    |                                                                   |
 
 
   
