@@ -9,7 +9,7 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 
 ## Action Language Set
 
-|                                |                                           |
+|       |       |
 | :----------------------------- | :---------------------------------------- |
 | Grasp an object                | Grasp the + “object name”                 |
 | Place the object into the bin  | Cut the + “object name”                   |
@@ -19,6 +19,15 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 
 ## Unseen Verb nad Noun
 
+|      Verb|Noun      |
+|----------------------------------------|-----------------------------------|
+|     put → move, place, pick            |     can → jar,   cola             |
+|     cut → chop, slice                  |     cosmetic → makeup             |
+|     clean → empty, clear               |     apple, banana→fruit           |
+|     close → shut                       |     eggplant → vegetable          |
+|     grasp → grip, catch                |     table → tableland,   stage    |
+|     open → unclose, unlock             |     object → thing, item          |
+|     place → put, set                   |     bin → box, dustbin            |
 
 
 
