@@ -9,6 +9,17 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 
 ## Action Language Set
 
+| 
+  **Action language list**
+|                                |
+| :----------------------------- | :---------------------------------------- |
+| Grasp an object                | Grasp the + “object name”                 |
+| Place the object into the bin  | Cut the + “object name”                   |
+| Open the drawer                | Place the + “object name” into the drawer |
+| Close the drawer               | Grasp a round object                      |
+| Done                           | Place the round object into the
+  bin     |
+
 ## Unseen Verb nad Noun
 
 
