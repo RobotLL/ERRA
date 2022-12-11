@@ -22,7 +22,7 @@ Code is available [here](https://github.com/RobotLL/ERRA).
 |     Place the round object into the bin                |     Please clean the table and then cut sth (e.g., banana)        |
 |     Grasp sth (cosmetic, can, clip)                    |                                                                   |
 
-## Unseen Verb nad Noun
+## Unseen Verb and Noun
 
 |      Verb|Noun      |
 |----------------------------------------|-----------------------------------|
