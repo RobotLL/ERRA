@@ -1,0 +1,1 @@
+{"plm_model": "t5", "plm_model_name_or_path": "google/t5-base-lm-adapt", "text": "{\"placeholder\":\"text_a\"} {\"image\"}{\"tactile\"} {\"mask\"}", "num_prefix": 5, "using_decoder_past_key_values": true}
